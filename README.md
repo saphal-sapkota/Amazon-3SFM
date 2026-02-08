@@ -1,23 +1,23 @@
 **Amazon 3-Statement Financial Model**
 
 
-A fully integrated, driver-based three-statement financial model for Amazon
+A fully integrated, driver-based three-statement financial model for Amazon, built to reflect professional financial modelling standards.
 
 **What’s inside** 
 
-Financial model (Excel) - AMZN_3Statement_Model_FY23-30.xlsx
+Financial model (Excel): `AMZN_3Statement_Model_FY23-30.xlsx`
 * Fully linked Income Statement, Balance Sheet, and Cash Flow Statement
 * Historical period: FY2023–FY2025
 * Forecast period: FY2026–FY2030
 * Supporting schedules: PPE & D&A, other assets, interest income/expense, EPS
 * Built-in analysis: base / upside / downside scenarios, circuit breaker, sensitivity & scenario analysis
 
-Assumptions pack (Excel) - AMZN_Assumptions_Pack_FY23-30.xlsx
+Assumptions pack (Excel): `AMZN_Assumptions_Pack_FY23-30.xlsx`
 * Centralised model drivers and key assumptions
 * Designed for transparent scenario changes and sensitivity testing
 
-Source materials:
-* Amazon Form 10-K (AMZN_10K_FY2025.pdf) used as the primary reference for historical financials and disclosures
+Source materials: `AMZN_10K_FY2025.pdf`
+* Amazon Form 10-K used as the primary reference for historical financials and disclosures
 * Consensus estimates
 
 **Skills & competencies developed**
