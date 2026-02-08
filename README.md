@@ -1,7 +1,7 @@
 **Amazon 3-Statement Financial Model**
 
 
-A fully integrated, driver-based three-statement financial model for Amazon, built to reflect professional financial modelling standards.
+A fully integrated, driver-based three-statement financial model for Amazon, built to reflect professional financial modelling standards
 
 **What’s inside** 
 
@@ -22,9 +22,9 @@ Source materials: `AMZN_10K_FY2025.pdf`
 
 **Skills & competencies developed**
 
-* Built a fully linked three-statement financial model with clean cash flow and balance sheet integrity
-* Applied driver-based forecasting across revenues, margins, reinvestment, working capital, and financing
-* Implemented base, upside, and downside operating scenarios with sensitivity analysis on key value drivers
-* Modelled PPE, depreciation & amortisation, interest income/expense, and EPS through supporting schedules
-* Introduced risk controls (circuit breaker) to manage extreme assumptions and ensure model robustness
-* Followed Excel best practices: clear structure, transparent assumptions, and auditable formulas
+* Built a fully linked three-statement financial model (IS, BS, CF)
+* Applied driver-based forecasting for revenues, margins, working capital, and financing
+* Created base, upside, and downside scenarios with sensitivity analysis
+* Modelled PPE, depreciation & amortisation, interest income/expense, and EPS
+* Implemented basic risk controls to limit extreme assumptions
+* Used clear Excel structure with separated inputs and calculations
