@@ -18,7 +18,7 @@ Assumptions pack (Excel): `AMZN_Assumptions_Pack_FY23-30.xlsx`
 
 Source materials: `AMZN_10K_FY2025.pdf`
 * Amazon Form 10-K used as the primary reference for historical financials and disclosures
-* Consensus estimates
+
 
 **Skills & competencies developed**
 
